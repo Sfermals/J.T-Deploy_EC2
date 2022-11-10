@@ -21,7 +21,7 @@ pipeline {
                  script{
                         dir("terraform")
                         {
-                            git "https://github.com/Sfermals/jen-terra-ec2.git"
+                            git "https://github.com/Sfermals/J.T-Deploy_EC2.git"
                         }
                     }
                 }
